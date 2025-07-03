@@ -1,7 +1,6 @@
 # Informations
-Project has been discontinued since 12/03/2024, private tools are available on demand.
-Discord : @loscuantesdesinaloa
-Telegram : @srcxd
+This second version of is discountinued (The first one got DMCA)
+- https://github.com/efussyo/bytedance_tiktok/tree/main
+X-Gorgon is updated in this newer version.
 
-
-https://discord.gg/bVHn2ybqPz
+thanks!
