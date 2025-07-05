@@ -1,11 +1,13 @@
 # Bytedance TikTok Api
-
+Get Latest TikTok Signatures: https://github.com/efussyo/tiktok-signatures
 ### Explanation
 
 Pour éviter les bots sur la plateforme TikTok, ont ajouté des algorithms comme X-Argus , X-Gorgon , X-Bogus , X-Ladon , X-Typhon et X-Medusa (sont plus ultilisés dans la version chinoise de TikTok)
 Ces algorithmes ont été Reversé sur la dernière version android de TikTok.
 Nous pouvons générer et ultiliser ces algorithmes.
 
+C'est a ultiliser sur des url comme : https://--domain--/aweme/-------------
+C'est comme ça tiktok va demander des signatures de ce genre
 
 To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-Bogus , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
 These Algorithms was Reverse Engineered on the latest TikTok Android App
