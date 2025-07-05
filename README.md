@@ -1,5 +1,5 @@
 # Bytedance TikTok Api
-Get Latest TikTok Signatures: https://github.com/efussyo/tiktok-signatures
+Get Latest TikTok Signatures at: https://github.com/efussyo/tiktok-signatures
 ### Explanation
 
 Pour éviter les bots sur la plateforme TikTok, ont ajouté des algorithms comme X-Argus , X-Gorgon , X-Bogus , X-Ladon , X-Typhon et X-Medusa (sont plus ultilisés dans la version chinoise de TikTok)
