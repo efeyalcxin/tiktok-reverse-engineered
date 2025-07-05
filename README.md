@@ -46,7 +46,19 @@ The algorithm iteratively transforms the array, applying layers of bit-level log
 
 This signature serves as a cryptographic proof that the request is authentic and has not been altered, helping TikTok validate requests and protect its API from unauthorized access or tampering.
 -
+### Important
+- Device ID is needed for device based actions.
+- Session ID is needed for user based actions.
+- Signatures are needed for requesting into TikTok's Mobile Api.
 
+  - However, Device ID's can be generated through static request but this will only be an simulation and can't be really used, The device is created but not active and it needs to be activated   & to bring the device to an real environmental-like state
+
+  - Session ID's is quite easy to get, You will just log in and it will be in your HTTP Intercepts in Cookies, or simply use EditThisCookie and look for SessionID
+
+  - Signatures could easily get, check out my repo https://github.com/efussyo/tiktok-signatures
+ 
+  - I've seen that some scripts/requests can work by generating a few numbers to mimic a Device ID, but it will only work on some requests like User Profile Name changing, Bio Changing and other profile related things.
+  - Some scripts like User Profile changing will more require X-Gorgon and X-Khronos for signatures.
 ### Endpoints
 - Captcha : rc-verification16-normal-no1A.tiktokv.eu , api16-normal-no1a.tiktokv.eu
 - Proxyless Endpoints : useast5 , maliva , useast1a , useast8
