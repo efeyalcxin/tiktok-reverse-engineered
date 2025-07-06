@@ -1,4 +1,4 @@
-# Bytedance TikTok Api
+# Bytedance TikTok Reverse
 Get Latest TikTok Signatures at: https://github.com/efussyo/tiktok-signatures
 ### Explanation
 
