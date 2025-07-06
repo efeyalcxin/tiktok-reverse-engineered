@@ -2,6 +2,12 @@
 Get Latest TikTok Signatures at: https://github.com/efussyo/tiktok-signatures
 ### Explanation
 
+To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
+These Algorithms was Reverse Engineered on the latest TikTok Android App
+We can now generate these Algorithms with : 'Device ID' , 'Install ID' , 'Endpoints'
+每个算法都是独一无二的
+
+
 Pour éviter les bots sur la plateforme TikTok, ont ajouté des algorithms comme X-Argus , X-Gorgon  , X-Ladon , X-Typhon et X-Medusa (sont plus ultilisés dans la version chinoise de TikTok)
 Ces algorithmes ont été Reversé sur la dernière version android de TikTok.
 Nous pouvons générer et ultiliser ces algorithmes.
@@ -9,10 +15,7 @@ Nous pouvons générer et ultiliser ces algorithmes.
 C'est a ultiliser sur des url comme : https://--domain--/aweme/-------------
 C'est comme ça tiktok va demander des signatures de ce genre
 
-To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
-These Algorithms was Reverse Engineered on the latest TikTok Android App
-We can now generate these Algorithms with : 'Device ID' , 'Install ID' , 'Endpoints'
-每个算法都是独一无二的
+
 
 ### Aftermath
 Après avoir essayé de Répliquer les mêmes choses dans de différents TikTok (Chinoises) , J'ai vu que les Endpoints des API n'étaient pas la même avec le version Global de TikTok, ça veut dire que TikTok Globale est une version complémentaire de Douyin (TT Chinoise)
