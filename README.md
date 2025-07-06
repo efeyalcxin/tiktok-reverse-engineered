@@ -46,6 +46,11 @@ The algorithm iteratively transforms the array, applying layers of bit-level log
 
 This signature serves as a cryptographic proof that the request is authentic and has not been altered, helping TikTok validate requests and protect its API from unauthorized access or tampering.
 -
+
+# Coming Soon
+
+TikTok Comment Bot fully based in Web Api - 50 Stars
+
 ### Important
 - Device ID is needed for device based actions.
 - Session ID is needed for user based actions.
