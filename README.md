@@ -2,14 +2,14 @@
 Get Latest TikTok Signatures at: https://github.com/efussyo/tiktok-signatures
 ### Explanation
 
-Pour éviter les bots sur la plateforme TikTok, ont ajouté des algorithms comme X-Argus , X-Gorgon , X-Bogus , X-Ladon , X-Typhon et X-Medusa (sont plus ultilisés dans la version chinoise de TikTok)
+Pour éviter les bots sur la plateforme TikTok, ont ajouté des algorithms comme X-Argus , X-Gorgon  , X-Ladon , X-Typhon et X-Medusa (sont plus ultilisés dans la version chinoise de TikTok)
 Ces algorithmes ont été Reversé sur la dernière version android de TikTok.
 Nous pouvons générer et ultiliser ces algorithmes.
 
 C'est a ultiliser sur des url comme : https://--domain--/aweme/-------------
 C'est comme ça tiktok va demander des signatures de ce genre
 
-To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-Bogus , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
+To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
 These Algorithms was Reverse Engineered on the latest TikTok Android App
 We can now generate these Algorithms with : 'Device ID' , 'Install ID' , 'Endpoints'
 每个算法都是独一无二的
@@ -51,7 +51,7 @@ This signature serves as a cryptographic proof that the request is authentic and
 - Session ID is needed for user based actions.
 - Signatures are needed for requesting into TikTok's Mobile Api.
 
-  - However, Device ID's can be generated through static request but this will only be an simulation and can't be really used, The device is created but not active and it needs to be activated   & to bring the device to an real environmental-like state
+  - However, Device ID's can be generated through static request but this will only be an simulation and can't be really used, The device is created but not active and it needs to be activated   & to bring the device to an real environmental-like state this can be done with mssdk.
 
   - Session ID's is quite easy to get, You will just log in and it will be in your HTTP Intercepts in Cookies, or simply use EditThisCookie and look for SessionID
 
