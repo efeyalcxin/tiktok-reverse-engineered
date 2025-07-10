@@ -1,6 +1,6 @@
 # Bytedance TikTok Reverse
-Get Latest TikTok Signatures at: https://github.com/efussyo/tiktok-signatures
-### Explanation
+Get Latest TikTok Signatures and latest other scripts at : https://rapidapi.com/cybrixian-cybrixian-default/api/cybrix-bytedance1
+# Explanation
 
 To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
 These Algorithms was Reverse Engineered on the latest TikTok Android App
