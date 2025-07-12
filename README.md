@@ -142,3 +142,4 @@ Most of the scripts should work but you will need to modify to your likings.
   - LoginAccount (SessionID only)
 
 
+Credits to @privxy for Guide (TG)
