@@ -1,6 +1,6 @@
 # Bytedance TikTok Reverse
 Get Latest TikTok Signing Api (Free Trial) : https://rapidapi.com/cybrixian-cybrixian-default/api/cybrix-bytedance1
-thanks to louissu :3 
+Or get source for X-L X-K and X-G in my profile
 # Explanation
 
 To Avoid Bots on the platform TikTok Added Algorithms Such as X-Argus , X-Gorgon , X-ladon , X-Tyhon and X-Medusa (More used in Douyin)
