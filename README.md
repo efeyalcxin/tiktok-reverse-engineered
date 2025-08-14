@@ -25,6 +25,8 @@ Il ajoute quatre paramètres importantes, X-Ladon, X-Khronos, X-Gorgon et X-Argu
 - X-Khronos est simplement le temps générale du serveur en Unix
 -  X-Gorgon , X-Bogus , X-Argus , X-Medusa , X-Thyron et X-Ladon , dans l'autre main est une signature de sécurité ultilisé dans les requêtes de l'Api TikTok, générés depuis des séries sophistiqués des opérations cryptographiques.
 
+X-Gorgon n'est pas requise dans la plupart des requêtes, vue qu'elle n'est pas mis à jour.
+
 Le processus commence par le calcul des hachages MD5 des composants clés de la requête, notamment les paramètres d'URL, le corps de la requête (souvent appelé « stub ») et les cookies. Ces hachages sont combinés dans un tableau initial, avec certaines valeurs constantes et l'heure Unix actuelle.
 
 Ce tableau est ensuite traité par un moteur de transformation personnalisé, généralement appelé classe XG. Chaque élément subit des opérations bit à bit complexes, notamment l'inversion de bits, le XOR avec des valeurs fixes et calculées, et la rotation de bits. Des fonctions comme reverse et RBIT sont utilisées pour masquer davantage les données.
@@ -43,6 +45,8 @@ It adds four important parameters, X-Ladon, X-Khronos, X-Gorgon, and X-Argus, to
 - X-Gorgon , X-Bogus , X-Argus , X-Medusa , X-Thyron and X-Ladon , on the other hand, is a security signature used in TikTok API requests, generated through a sophisticated series of cryptographic operations.
 
 The process begins by computing MD5 hashes of key components of the request—this includes the URL parameters, request body (often referred to as the "stub"), and any cookies. These hashes are combined into an initial array along with certain constant values and the current Unix time.
+
+X-Gorgon isn't required on requests anymore, This is due to it being outdated.
 
 This array is then processed by a custom transformation engine, typically referred to as the XG class. Each element undergoes complex bitwise operations, including bit reversal, XOR with both fixed and calculated values, and bit rotations. Functions like reverse and RBIT are used to further obscure the data.
 
